@@ -1,0 +1,45 @@
+
+---
+
+# README — Jogo do Número Secreto
+
+```md
+# Jogo do Número Secreto
+
+Projeto desenvolvido para praticar lógica de programação através de um jogo interativo onde o usuário precisa descobrir um número aleatório gerado pelo sistema.
+
+---
+
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## Funcionalidades
+
+- Geração de número aleatório
+- Sistema de tentativas
+- Dicas de número maior ou menor
+- Reinício da partida
+- Interface interativa
+
+---
+
+## Objetivo do projeto
+
+Praticar conceitos fundamentais de programação, incluindo:
+
+- Condicionais
+- Estruturas de repetição
+- Funções
+- Manipulação do DOM
+- Lógica matemática
+
+---
+
+## Execução
+
+1. Clone este repositório
